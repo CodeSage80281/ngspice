@@ -116,8 +116,8 @@ char *VDMOSnames[] = {
     "Source"
 };
 
-int	VDMOSnSize = NUMELEMS(VDMOSnames);
-int	VDMOSpTSize = NUMELEMS(VDMOSpTable);
-int	VDMOSmPTSize = NUMELEMS(VDMOSmPTable);
-int	VDMOSiSize = sizeof(VDMOSinstance);
-int	VDMOSmSize = sizeof(VDMOSmodel);
+int VDMOSnSize = NUMELEMS(VDMOSnames);
+int VDMOSpTSize = NUMELEMS(VDMOSpTable);
+int VDMOSmPTSize = NUMELEMS(VDMOSmPTable);
+int VDMOSiSize = sizeof(VDMOSinstance);
+int VDMOSmSize = sizeof(VDMOSmodel);
